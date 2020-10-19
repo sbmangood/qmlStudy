@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>anchors01.qml</file>
+        <file>keyAction.qml</file>
+        <file>blueTextWrap.qml</file>
+        <file>buttonQuit.qml</file>
+        <file>progressBarTest1.qml</file>
+        <file>tabviewSimple.qml</file>
+        <file>tabviewTest.qml</file>
+        <file>flickableTest.qml</file>
+        <file>canvaDrawRect.qml</file>
+    </qresource>
+</RCC>
